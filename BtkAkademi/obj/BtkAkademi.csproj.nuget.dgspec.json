@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TS_61\\Desktop\\MVC\\BtkAkademi\\BtkAkademi.csproj": {}
+    "c:\\Users\\TS_61\\Desktop\\MVC\\BtkAkademi\\BtkAkademi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TS_61\\Desktop\\MVC\\BtkAkademi\\BtkAkademi.csproj": {
+    "c:\\Users\\TS_61\\Desktop\\MVC\\BtkAkademi\\BtkAkademi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TS_61\\Desktop\\MVC\\BtkAkademi\\BtkAkademi.csproj",
+        "projectUniqueName": "c:\\Users\\TS_61\\Desktop\\MVC\\BtkAkademi\\BtkAkademi.csproj",
         "projectName": "BtkAkademi",
-        "projectPath": "C:\\Users\\TS_61\\Desktop\\MVC\\BtkAkademi\\BtkAkademi.csproj",
+        "projectPath": "c:\\Users\\TS_61\\Desktop\\MVC\\BtkAkademi\\BtkAkademi.csproj",
         "packagesPath": "C:\\Users\\TS_61\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TS_61\\Desktop\\MVC\\BtkAkademi\\obj\\",
+        "outputPath": "c:\\Users\\TS_61\\Desktop\\MVC\\BtkAkademi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TS_61\\AppData\\Roaming\\NuGet\\NuGet.Config",
